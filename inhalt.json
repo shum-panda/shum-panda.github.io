@@ -1,0 +1,1519 @@
+{
+  "person": {
+    "name": "Shium Rahman",
+    "title": {
+      "de": "Shium Rahman – Projekte, Skills, Ziele",
+      "en": "Shium Rahman – projects, skills, goals"
+    },
+    "role": {
+      "de": "Baut Software, die echte Probleme löst",
+      "en": "Builds software that solves real problems"
+    },
+    "status": {
+      "de": "Offen für spannende Projekte und Gespräche",
+      "en": "Open to interesting projects and conversations"
+    },
+    "mail": [
+      "shium.m.r",
+      "gmail.com"
+    ],
+    "cv": {
+      "href": "assets/lebenslauf.pdf",
+      "available": false
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/shium-rahman-051b82243/",
+      "github": "https://github.com/shum-panda",
+      "imprint": null
+    }
+  },
+  "ui": {
+    "nav_start": {
+      "de": "Start",
+      "en": "Home"
+    },
+    "nav_skills": {
+      "de": "Skills",
+      "en": "Skills"
+    },
+    "nav_projekte": {
+      "de": "Projekte",
+      "en": "Projects"
+    },
+    "nav_ziele": {
+      "de": "Ziele",
+      "en": "Goals"
+    },
+    "contact": {
+      "de": "Kontakt",
+      "en": "Contact"
+    },
+    "cv": {
+      "de": "Lebenslauf (PDF)",
+      "en": "CV (PDF)"
+    },
+    "cv_missing": {
+      "de": "Lebenslauf folgt in Kürze",
+      "en": "CV coming soon"
+    },
+    "lang_switch": {
+      "de": "Switch to English",
+      "en": "Auf Deutsch wechseln"
+    },
+    "imprint": {
+      "de": "Impressum",
+      "en": "Imprint"
+    },
+    "close": {
+      "de": "Schließen",
+      "en": "Close"
+    },
+    "mail_subject": {
+      "de": "Kontakt über deine Webseite",
+      "en": "Contact via your website"
+    },
+    "banner_linkedin": {
+      "de": "Du kommst von LinkedIn – hier zuerst, was ich kann und woran man das sieht.",
+      "en": "Coming from LinkedIn – here first: what I can do and how you can tell."
+    },
+    "banner_github": {
+      "de": "Du kommst von GitHub – hier zuerst, was ich gebaut habe.",
+      "en": "Coming from GitHub – here first: what I've built."
+    },
+    "banner_to_projects": {
+      "de": "Lieber die Projekte",
+      "en": "Show projects instead"
+    },
+    "banner_to_skills": {
+      "de": "Lieber die Skills",
+      "en": "Show skills instead"
+    },
+    "interest_label": {
+      "de": "Was interessiert dich?",
+      "en": "What are you interested in?"
+    },
+    "interest_all": {
+      "de": "Alles",
+      "en": "Everything"
+    },
+    "cta_skills": {
+      "de": "Skills ansehen",
+      "en": "See skills"
+    },
+    "cta_projects": {
+      "de": "Projekte ansehen",
+      "en": "See projects"
+    },
+    "scale_title": {
+      "de": "Wie die Prozente zustande kommen",
+      "en": "How the percentages are made"
+    },
+    "evidence_title": {
+      "de": "Woraus sich der Wert zusammensetzt",
+      "en": "What the value is made of"
+    },
+    "full_title": {
+      "de": "Was 100 % bedeuten würde",
+      "en": "What 100 % would mean"
+    },
+    "placeholder_note": {
+      "de": "Wird noch ergänzt – hier steht erst etwas, wenn es belegt ist.",
+      "en": "Still to be added – nothing goes here until it can be backed up."
+    },
+    "unknown_yet": {
+      "de": "noch nicht eingetragen",
+      "en": "not filled in yet"
+    },
+    "problem": {
+      "de": "Problem:",
+      "en": "Problem:"
+    },
+    "stack": {
+      "de": "Technik",
+      "en": "Tech"
+    },
+    "private_repo": {
+      "de": "Code privat – Einblick auf Anfrage",
+      "en": "Private code – walkthrough on request"
+    }
+  },
+  "interests": [
+    {
+      "id": "produkt",
+      "label": {
+        "de": "Produkt & Apps",
+        "en": "Product & apps"
+      }
+    },
+    {
+      "id": "software",
+      "label": {
+        "de": "Software-Entwicklung",
+        "en": "Software development"
+      }
+    },
+    {
+      "id": "ki",
+      "label": {
+        "de": "KI & Daten",
+        "en": "AI & data"
+      }
+    },
+    {
+      "id": "sap",
+      "label": {
+        "de": "SAP & Business",
+        "en": "SAP & business"
+      }
+    }
+  ],
+  "start": {
+    "headline": {
+      "de": "Ich baue Lösungen für Probleme, die Menschen wirklich haben.",
+      "en": "I build solutions for problems people actually have."
+    },
+    "lead": {
+      "de": "Kein Ultra-Coder, sondern jemand, der Projekte praktisch umsetzt: Problem verstehen, mit KI als Werkzeug eine verlässliche Lösung bauen, testen, betreiben. Hier siehst du, was dabei herausgekommen ist und was ich dabei gelernt habe.",
+      "en": "Not an ultra coder – someone who gets projects done hands-on: understand the problem, build a reliable solution with AI as a tool, test it, run it. Here's what came out of it and what I learned along the way."
+    },
+    "problems_title": {
+      "de": "Probleme, die ich angegangen bin",
+      "en": "Problems I've taken on"
+    },
+    "way_title": {
+      "de": "So arbeite ich",
+      "en": "How I work"
+    },
+    "way": [
+      {
+        "title": {
+          "de": "Problem zuerst",
+          "en": "Problem first"
+        },
+        "text": {
+          "de": "Ich fange bei einer echten Situation an, nicht bei der Technik.",
+          "en": "I start from a real situation, not from the technology."
+        }
+      },
+      {
+        "title": {
+          "de": "Klein bauen, früh nutzen",
+          "en": "Build small, use early"
+        },
+        "text": {
+          "de": "Eine erste Version, die funktioniert, schlägt jeden perfekten Plan.",
+          "en": "A first version that works beats any perfect plan."
+        }
+      },
+      {
+        "title": {
+          "de": "Mit KI, aber geprüft",
+          "en": "With AI, but verified"
+        },
+        "text": {
+          "de": "KI beschleunigt mich; Tests, Reviews und echter Betrieb sorgen dafür, dass es verlässlich bleibt.",
+          "en": "AI speeds me up; tests, reviews and real operation keep it reliable."
+        }
+      },
+      {
+        "title": {
+          "de": "Mit echten Menschen testen",
+          "en": "Test with real people"
+        },
+        "text": {
+          "de": "Der nächste Schritt ist immer eine kleine Gruppe, die es wirklich benutzt.",
+          "en": "The next step is always a small group that actually uses it."
+        }
+      }
+    ]
+  },
+  "skills_intro": {
+    "de": "Die Balken sind eine ehrliche Selbsteinschätzung – und jede ist begründet. Tipp auf einen Skill, um zu sehen, woraus sich der Wert zusammensetzt und was 100 % wären.",
+    "en": "The bars are an honest self-assessment – and each one is backed up. Tap a skill to see what the value is made of and what 100 % would be."
+  },
+  "stages": {
+    "grundlagen": {
+      "range": "0–39 %",
+      "label": {
+        "de": "Grundlagen",
+        "en": "Basics"
+      },
+      "text": {
+        "de": "Kenne die Konzepte und habe es in kleinem Umfang oder im Studium genutzt.",
+        "en": "Know the concepts and have used it on a small scale or in my studies."
+      }
+    },
+    "angewendet": {
+      "range": "40–64 %",
+      "label": {
+        "de": "Angewendet",
+        "en": "Applied"
+      },
+      "text": {
+        "de": "In mindestens einem echten Projekt eingesetzt; bei Neuem schlage ich noch nach.",
+        "en": "Used in at least one real project; I still look things up for new ground."
+      }
+    },
+    "im_einsatz": {
+      "range": "65–84 %",
+      "label": {
+        "de": "Im Einsatz",
+        "en": "In daily use"
+      },
+      "text": {
+        "de": "Trägt mehrere eigene Projekte, inklusive Tests und laufendem Betrieb.",
+        "en": "Carries several of my own projects, including tests and live operation."
+      }
+    },
+    "sicher": {
+      "range": "85–100 %",
+      "label": {
+        "de": "Sicher",
+        "en": "Confident"
+      },
+      "text": {
+        "de": "Kann es in Produktion allein verantworten und anderen beibringen.",
+        "en": "Can own it in production on my own and teach it to others."
+      }
+    }
+  },
+  "evidence_types": {
+    "projekt": {
+      "de": "Projekt",
+      "en": "Project"
+    },
+    "betrieb": {
+      "de": "Live-Betrieb",
+      "en": "Live operation"
+    },
+    "studium": {
+      "de": "Studium",
+      "en": "Studies"
+    },
+    "zertifikat": {
+      "de": "Zertifikat",
+      "en": "Certificate"
+    },
+    "beruf": {
+      "de": "Beruf",
+      "en": "Work"
+    }
+  },
+  "skillGroups": [
+    {
+      "id": "produkt",
+      "title": {
+        "de": "Produkt & Arbeitsweise",
+        "en": "Product & way of working"
+      },
+      "skills": [
+        {
+          "id": "idee-produkt",
+          "name": {
+            "de": "Von der Idee zum nutzbaren Produkt",
+            "en": "From idea to usable product"
+          },
+          "pct": 70,
+          "stage": "im_einsatz",
+          "tags": [
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "Acht eigene Projekte von der Idee bis zur lauffähigen App",
+                "en": "Eight own projects from idea to working app"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 20,
+              "text": {
+                "de": "Mehrere davon öffentlich nutzbar bzw. live betrieben",
+                "en": "Several of them publicly usable or running live"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 15,
+              "text": {
+                "de": "Ausgearbeitetes Konzept mit Recht, Finanzen und Roadmap (Lernbrücke)",
+                "en": "Worked-out concept incl. legal, finances and roadmap (Lernbrücke)"
+              }
+            }
+          ],
+          "full": {
+            "de": "Ein Produkt mit vielen zahlenden bzw. regelmäßigen Nutzern über Jahre führen – inklusive Team, Prioritäten und Weiterentwicklung.",
+            "en": "Run a product with many paying or regular users for years – including team, priorities and evolution."
+          }
+        },
+        {
+          "id": "ki-entwicklung",
+          "name": {
+            "de": "KI-gestützte Entwicklung",
+            "en": "AI-assisted development"
+          },
+          "pct": 75,
+          "stage": "im_einsatz",
+          "tags": [
+            "produkt",
+            "ki",
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 40,
+              "text": {
+                "de": "Alle aktuellen Projekte mit KI geplant, gebaut und überprüft",
+                "en": "All current projects planned, built and reviewed with AI"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 20,
+              "text": {
+                "de": "Absicherung durch automatische Tests und Reviews statt blindem Übernehmen",
+                "en": "Safeguarded by automated tests and reviews instead of blind copying"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 15,
+              "text": {
+                "de": "Ergebnisse laufen im echten Betrieb",
+                "en": "Results run in real operation"
+              }
+            }
+          ],
+          "full": {
+            "de": "KI-Arbeitsabläufe für ein ganzes Team aufsetzen und verantworten, mit messbarer Qualität.",
+            "en": "Set up and own AI workflows for a whole team, with measurable quality."
+          }
+        },
+        {
+          "id": "testen",
+          "name": {
+            "de": "Testen & Qualität",
+            "en": "Testing & quality"
+          },
+          "pct": 60,
+          "stage": "angewendet",
+          "tags": [
+            "software",
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "Automatische Tests in fast allen Projekten (pytest, Node-Test, Vitest, JUnit)",
+                "en": "Automated tests in almost every project (pytest, Node test, Vitest, JUnit)"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 15,
+              "text": {
+                "de": "CI mit GitHub Actions, statische Prüfungen (ruff, mypy, tsc)",
+                "en": "CI with GitHub Actions, static checks (ruff, mypy, tsc)"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 10,
+              "text": {
+                "de": "End-to-End-Tests mit echtem Server und mehreren Geräten",
+                "en": "End-to-end tests with a real server and several devices"
+              }
+            }
+          ],
+          "full": {
+            "de": "Teststrategie für ein größeres System entwerfen, Qualität messbar machen und im Team durchsetzen.",
+            "en": "Design the test strategy for a larger system, make quality measurable and drive it in a team."
+          }
+        },
+        {
+          "id": "nutzertests",
+          "name": {
+            "de": "Testen mit echten Nutzergruppen",
+            "en": "Testing with real user groups"
+          },
+          "pct": 20,
+          "stage": "grundlagen",
+          "tags": [
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 20,
+              "text": {
+                "de": "Erste öffentliche Version veröffentlicht und Apps per Link teilbar gemacht",
+                "en": "First public release published, apps shareable via link"
+              }
+            }
+          ],
+          "full": {
+            "de": "Regelmäßige Testrunden mit festen Gruppen leiten, Rückmeldungen auswerten und daraus Prioritäten machen.",
+            "en": "Run regular test rounds with fixed groups, analyse feedback and turn it into priorities."
+          }
+        }
+      ]
+    },
+    {
+      "id": "software",
+      "title": {
+        "de": "Software-Entwicklung",
+        "en": "Software development"
+      },
+      "skills": [
+        {
+          "id": "python",
+          "name": {
+            "de": "Python",
+            "en": "Python"
+          },
+          "pct": 70,
+          "stage": "im_einsatz",
+          "tags": [
+            "software",
+            "ki"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 40,
+              "text": {
+                "de": "Kernsprache in drei größeren Projekten (Analyse-App, Wohnungssuche, XAI-Pipeline)",
+                "en": "Main language in three larger projects (analysis app, flat search, XAI pipeline)"
+              }
+            },
+            {
+              "type": "studium",
+              "points": 20,
+              "text": {
+                "de": "Bachelorarbeit vollständig in Python",
+                "en": "Bachelor thesis entirely in Python"
+              },
+              "link": "https://github.com/shum-panda/xai-eval-pipeline"
+            },
+            {
+              "type": "projekt",
+              "points": 10,
+              "text": {
+                "de": "Getestet mit pytest, geprüft mit ruff und mypy",
+                "en": "Tested with pytest, checked with ruff and mypy"
+              }
+            }
+          ],
+          "full": {
+            "de": "Große Python-Systeme entwerfen, Performance tief verstehen und Bibliotheken für andere schreiben.",
+            "en": "Design large Python systems, understand performance deeply and write libraries for others."
+          }
+        },
+        {
+          "id": "javascript",
+          "name": {
+            "de": "JavaScript & Web-Apps (PWA)",
+            "en": "JavaScript & web apps (PWA)"
+          },
+          "pct": 65,
+          "stage": "im_einsatz",
+          "tags": [
+            "software",
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 40,
+              "text": {
+                "de": "Mehrere installierbare Web-Apps ohne Framework",
+                "en": "Several installable web apps without a framework"
+              },
+              "link": "https://shum-panda.github.io/SkillTracker/"
+            },
+            {
+              "type": "projekt",
+              "points": 15,
+              "text": {
+                "de": "Offline-Fähigkeit, lokale Datenhaltung, Web-Push",
+                "en": "Offline support, local storage, web push"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 10,
+              "text": {
+                "de": "Live über GitHub Pages und eigenen Server",
+                "en": "Live via GitHub Pages and own server"
+              }
+            }
+          ],
+          "full": {
+            "de": "Große Frontends mit vielen Entwicklern strukturieren und Barrierefreiheit sowie Performance garantieren.",
+            "en": "Structure large front ends with many developers and guarantee accessibility and performance."
+          }
+        },
+        {
+          "id": "apis",
+          "name": {
+            "de": "Backends & APIs (FastAPI, Node.js)",
+            "en": "Back ends & APIs (FastAPI, Node.js)"
+          },
+          "pct": 55,
+          "stage": "angewendet",
+          "tags": [
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "Mehrere eigene Server: Synchronisation, Marktplatz, Benachrichtigungen",
+                "en": "Several own servers: sync, marketplace, notifications"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 20,
+              "text": {
+                "de": "Davon mehrere dauerhaft live",
+                "en": "Several of them permanently live"
+              }
+            }
+          ],
+          "full": {
+            "de": "APIs für hohe Last und viele Teams entwerfen, versionieren und verantworten.",
+            "en": "Design, version and own APIs for high load and many teams."
+          }
+        },
+        {
+          "id": "typescript",
+          "name": {
+            "de": "TypeScript & React",
+            "en": "TypeScript & React"
+          },
+          "pct": 40,
+          "stage": "angewendet",
+          "tags": [
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 25,
+              "text": {
+                "de": "Prototyp einer Vereinsplattform mit Next.js, Prisma und Logins",
+                "en": "Prototype of an association platform with Next.js, Prisma and logins"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 15,
+              "text": {
+                "de": "Notenrechner als React-Web-App",
+                "en": "Grade calculator as a React web app"
+              },
+              "link": "https://github.com/shum-panda/bechlor_grade"
+            }
+          ],
+          "full": {
+            "de": "Größere React-Anwendungen sicher strukturieren und im Team weiterentwickeln.",
+            "en": "Confidently structure larger React apps and evolve them in a team."
+          }
+        },
+        {
+          "id": "java",
+          "name": {
+            "de": "Java",
+            "en": "Java"
+          },
+          "pct": 25,
+          "stage": "grundlagen",
+          "tags": [
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "studium",
+              "points": 25,
+              "text": {
+                "de": "Java-Grundlagen und Übungsprojekte im Studium",
+                "en": "Java fundamentals and exercise projects in my studies"
+              }
+            }
+          ],
+          "full": {
+            "de": "Größere Java-Anwendungen allein entwerfen und in Produktion verantworten.",
+            "en": "Design larger Java applications on my own and own them in production."
+          }
+        },
+        {
+          "id": "datenbanken",
+          "name": {
+            "de": "Datenbanken (SQLite)",
+            "en": "Databases (SQLite)"
+          },
+          "pct": 45,
+          "stage": "angewendet",
+          "tags": [
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "SQLite als Datenbasis in mehreren Apps, inkl. Synchronisation",
+                "en": "SQLite as the data layer in several apps, incl. sync"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 10,
+              "text": {
+                "de": "Tägliche Sicherungen im Live-Betrieb",
+                "en": "Daily backups in live operation"
+              }
+            }
+          ],
+          "full": {
+            "de": "Datenmodelle und Abfragen für große Datenmengen entwerfen und optimieren.",
+            "en": "Design and tune data models and queries for large data volumes."
+          }
+        },
+        {
+          "id": "mobile",
+          "name": {
+            "de": "Apps für Android & Desktop ausliefern",
+            "en": "Shipping apps for Android & desktop"
+          },
+          "pct": 45,
+          "stage": "angewendet",
+          "tags": [
+            "software",
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "Eine App als Android-, Windows- und Linux-Version veröffentlicht",
+                "en": "Released one app for Android, Windows and Linux"
+              },
+              "link": "https://shum-panda.github.io/local/"
+            },
+            {
+              "type": "projekt",
+              "points": 10,
+              "text": {
+                "de": "Signierte Builds mit Prüfsummen",
+                "en": "Signed builds with checksums"
+              }
+            }
+          ],
+          "full": {
+            "de": "Apps über die Stores an viele Nutzer ausliefern und dort pflegen.",
+            "en": "Ship apps to many users through the stores and maintain them there."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ki",
+      "title": {
+        "de": "KI & Daten",
+        "en": "AI & data"
+      },
+      "skills": [
+        {
+          "id": "ml-xai",
+          "name": {
+            "de": "Machine Learning & erklärbare KI",
+            "en": "Machine learning & explainable AI"
+          },
+          "pct": 55,
+          "stage": "angewendet",
+          "tags": [
+            "ki"
+          ],
+          "evidence": [
+            {
+              "type": "studium",
+              "points": 35,
+              "text": {
+                "de": "Bachelorarbeit: Methoden der erklärbaren KI systematisch verglichen (PyTorch)",
+                "en": "Bachelor thesis: systematic comparison of explainable-AI methods (PyTorch)"
+              },
+              "link": "https://github.com/shum-panda/xai-eval-pipeline"
+            },
+            {
+              "type": "studium",
+              "points": 20,
+              "text": {
+                "de": "Reproduzierbare Experimente mit Konfiguration und Tracking",
+                "en": "Reproducible experiments with configuration and tracking"
+              }
+            }
+          ],
+          "full": {
+            "de": "Eigene Modelle für ein echtes Produkt trainieren, bewerten und betreiben.",
+            "en": "Train, evaluate and run own models for a real product."
+          }
+        },
+        {
+          "id": "llm",
+          "name": {
+            "de": "KI-Modelle in Produkte einbauen",
+            "en": "Building AI models into products"
+          },
+          "pct": 55,
+          "stage": "angewendet",
+          "tags": [
+            "ki",
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 35,
+              "text": {
+                "de": "Lern-App mit wählbarem KI-Anbieter (Cloud oder lokal)",
+                "en": "Learning app with a choice of AI provider (cloud or local)"
+              },
+              "link": "https://github.com/shum-panda/SkillTracker"
+            },
+            {
+              "type": "projekt",
+              "points": 20,
+              "text": {
+                "de": "KI-Assistent, dessen Vorschläge gegen echte Daten geprüft werden",
+                "en": "AI assistant whose suggestions are checked against real data"
+              }
+            }
+          ],
+          "full": {
+            "de": "KI-Funktionen mit Bewertung, Kostenkontrolle und Monitoring für viele Nutzer betreiben.",
+            "en": "Run AI features for many users with evaluation, cost control and monitoring."
+          }
+        },
+        {
+          "id": "daten",
+          "name": {
+            "de": "Datenanalyse & Visualisierung",
+            "en": "Data analysis & visualisation"
+          },
+          "pct": 55,
+          "stage": "angewendet",
+          "tags": [
+            "ki"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 25,
+              "text": {
+                "de": "Statistiken, Heatmaps und Trends aus öffentlichen Daten",
+                "en": "Statistics, heatmaps and trends from public data"
+              }
+            },
+            {
+              "type": "studium",
+              "points": 20,
+              "text": {
+                "de": "Auswertung mit pandas, NumPy, Matplotlib",
+                "en": "Analysis with pandas, NumPy, Matplotlib"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 10,
+              "text": {
+                "de": "Diagramme auf Farbenblindheit geprüft",
+                "en": "Charts checked for colour blindness"
+              }
+            }
+          ],
+          "full": {
+            "de": "Komplexe Analysen für Entscheidungen in einem Unternehmen verantworten.",
+            "en": "Own complex analyses that drive decisions in a company."
+          }
+        }
+      ]
+    },
+    {
+      "id": "betrieb",
+      "title": {
+        "de": "Betrieb & Sicherheit",
+        "en": "Operations & security"
+      },
+      "skills": [
+        {
+          "id": "server",
+          "name": {
+            "de": "Linux-Server & Deployment",
+            "en": "Linux servers & deployment"
+          },
+          "pct": 55,
+          "stage": "angewendet",
+          "tags": [
+            "software"
+          ],
+          "evidence": [
+            {
+              "type": "betrieb",
+              "points": 35,
+              "text": {
+                "de": "Eigener Server mit mehreren Diensten, HTTPS, Firewall und Monitoring",
+                "en": "Own server with several services, HTTPS, firewall and monitoring"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 10,
+              "text": {
+                "de": "Updates per Git mit automatischem Rücksprung bei Fehlern",
+                "en": "Updates via Git with automatic rollback on failure"
+              }
+            },
+            {
+              "type": "betrieb",
+              "points": 10,
+              "text": {
+                "de": "Tägliche Sicherungen und Alarme",
+                "en": "Daily backups and alerts"
+              }
+            }
+          ],
+          "full": {
+            "de": "Infrastruktur für ein Unternehmen mit Ausfallsicherheit und Bereitschaft verantworten.",
+            "en": "Own infrastructure for a company, including high availability and on-call."
+          }
+        },
+        {
+          "id": "sicherheit",
+          "name": {
+            "de": "Sicherheit & Datenschutz von Anfang an",
+            "en": "Security & privacy by design"
+          },
+          "pct": 50,
+          "stage": "angewendet",
+          "tags": [
+            "software",
+            "produkt"
+          ],
+          "evidence": [
+            {
+              "type": "projekt",
+              "points": 25,
+              "text": {
+                "de": "Ende-zu-Ende-verschlüsselte Synchronisation ohne Benutzerkonten",
+                "en": "End-to-end encrypted sync without user accounts"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 15,
+              "text": {
+                "de": "Apps, deren Daten auf dem Gerät bleiben",
+                "en": "Apps whose data stays on the device"
+              }
+            },
+            {
+              "type": "projekt",
+              "points": 10,
+              "text": {
+                "de": "Sichere Logins: gehashte Passwörter, signierte Sitzungen",
+                "en": "Secure logins: hashed passwords, signed sessions"
+              }
+            }
+          ],
+          "full": {
+            "de": "Sicherheitskonzepte für ein Unternehmen erstellen und von Prüfern abnehmen lassen.",
+            "en": "Write security concepts for a company and get them signed off by auditors."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sap",
+      "title": {
+        "de": "SAP & Business",
+        "en": "SAP & business"
+      },
+      "skills": [
+        {
+          "id": "sap",
+          "name": {
+            "de": "SAP",
+            "en": "SAP"
+          },
+          "pct": 0,
+          "stage": "grundlagen",
+          "tags": [
+            "sap"
+          ],
+          "placeholder": true,
+          "evidence": [
+            {
+              "type": "zertifikat",
+              "points": 0,
+              "text": {
+                "de": "Zertifikat(e) – Name und Umfang werden ergänzt",
+                "en": "Certificate(s) – name and scope to be added"
+              }
+            },
+            {
+              "type": "beruf",
+              "points": 0,
+              "text": {
+                "de": "Erfahrung aus der aktuellen Position – wird ergänzt",
+                "en": "Experience from current position – to be added"
+              }
+            }
+          ],
+          "full": {
+            "de": "Wird mit den Angaben zu Zertifikat und Position ergänzt.",
+            "en": "To be added with the certificate and position details."
+          }
+        }
+      ]
+    }
+  ],
+  "project_status": {
+    "live": {
+      "de": "Live",
+      "en": "Live"
+    },
+    "release": {
+      "de": "Veröffentlicht",
+      "en": "Released"
+    },
+    "arbeit": {
+      "de": "In Arbeit",
+      "en": "In progress"
+    },
+    "konzept": {
+      "de": "Konzept & Prototyp",
+      "en": "Concept & prototype"
+    },
+    "studium": {
+      "de": "Studium",
+      "en": "Studies"
+    }
+  },
+  "projects_intro": {
+    "de": "Jedes Projekt beginnt mit einem echten Problem. Wo der Code öffentlich ist, ist er verlinkt; bei privaten Projekten zeige ich gern im Gespräch, wie es gebaut ist.",
+    "en": "Every project starts with a real problem. Where the code is public, it's linked; for private projects I'm happy to walk you through how they're built."
+  },
+  "projects": [
+    {
+      "id": "skilltracker",
+      "title": "SkillTracker",
+      "status": "live",
+      "tags": [
+        "produkt",
+        "ki",
+        "software"
+      ],
+      "problem_short": {
+        "de": "Englisch schreiben üben, ohne zu wissen, wo man steht",
+        "en": "Practising written English without knowing where you stand"
+      },
+      "problem": {
+        "de": "Wer Englisch schreibt, bekommt selten ehrliche, konkrete Rückmeldung.",
+        "en": "People writing in English rarely get honest, concrete feedback."
+      },
+      "what": {
+        "de": "Eine Lern-App: Text schreiben oder fotografieren, von einer KI nach sechs Kriterien bewerten lassen, Fehler verstehen und gezielt üben.",
+        "en": "A learning app: write or photograph a text, have AI rate it on six criteria, understand mistakes and practise specifically."
+      },
+      "features": [
+        {
+          "de": "Bewertung als Spinnennetz mit erklärten Fehlern",
+          "en": "Radar-chart rating with explained mistakes"
+        },
+        {
+          "de": "Karteikarten mit Lernplan, Grammatik- und Aussprache-Training",
+          "en": "Flashcards with a schedule, grammar and pronunciation training"
+        },
+        {
+          "de": "Eigener KI-Anbieter wählbar, auch lokal",
+          "en": "Choose your own AI provider, including local ones"
+        },
+        {
+          "de": "Kein Konto – Daten bleiben im Browser, Geräte per QR verbinden",
+          "en": "No account – data stays in the browser, link devices via QR"
+        }
+      ],
+      "stack": [
+        "JavaScript",
+        "PWA",
+        "IndexedDB",
+        "Node.js",
+        "Web Push",
+        "GitHub Actions"
+      ],
+      "links": [
+        {
+          "href": "https://shum-panda.github.io/SkillTracker/",
+          "label": {
+            "de": "App öffnen",
+            "en": "Open the app"
+          }
+        },
+        {
+          "href": "https://github.com/shum-panda/SkillTracker",
+          "label": {
+            "de": "Code auf GitHub",
+            "en": "Code on GitHub"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vega",
+      "title": "Vega & Vega Lite",
+      "status": "release",
+      "tags": [
+        "produkt",
+        "ki",
+        "software"
+      ],
+      "problem_short": {
+        "de": "Kartenspieler verlieren den Überblick über Meta, Decks und Preise",
+        "en": "Card players lose track of meta, decks and prices"
+      },
+      "problem": {
+        "de": "Spieler des One Piece Card Game haben Turnierdaten, Sammlung, Preise und eigene Spiele an vielen Orten verstreut.",
+        "en": "One Piece Card Game players have tournament data, collection, prices and their own games scattered everywhere."
+      },
+      "what": {
+        "de": "Eine Analyse-App für PC und Handy, die alles zusammenführt – lokal auf dem Gerät. Vega Lite ist die frei verfügbare Version.",
+        "en": "An analysis app for PC and phone that brings it all together – locally on the device. Vega Lite is the freely available edition."
+      },
+      "features": [
+        {
+          "de": "Meta-Analyse mit Winrates und Matchup-Heatmap",
+          "en": "Meta analysis with win rates and matchup heatmap"
+        },
+        {
+          "de": "Deckbau mit Regelprüfung und Abgleich mit der Sammlung",
+          "en": "Deck building with rule checks and collection matching"
+        },
+        {
+          "de": "Abgleich zwischen Handy und PC per QR-Code",
+          "en": "Phone–PC sync via QR code"
+        },
+        {
+          "de": "Marktplatz für lokale Läden und Spielergruppen",
+          "en": "Marketplace for local stores and player groups"
+        }
+      ],
+      "stack": [
+        "Python",
+        "FastAPI",
+        "SQLite",
+        "JavaScript",
+        "Android",
+        "PyInstaller"
+      ],
+      "links": [
+        {
+          "href": "https://shum-panda.github.io/local/",
+          "label": {
+            "de": "Vega Lite herunterladen",
+            "en": "Download Vega Lite"
+          }
+        }
+      ],
+      "private": true
+    },
+    {
+      "id": "flurfunk",
+      "title": "Flurfunk",
+      "status": "live",
+      "tags": [
+        "produkt",
+        "software"
+      ],
+      "problem_short": {
+        "de": "WG-Absprachen gehen im Gruppenchat unter",
+        "en": "Flat-share arrangements get lost in group chats"
+      },
+      "problem": {
+        "de": "Putzplan, Urlaub und Neuigkeiten einer WG gehen im Gruppenchat unter – und keiner will dafür ein Konto anlegen.",
+        "en": "A flat share's cleaning rota, holidays and news get lost in the group chat – and nobody wants another account."
+      },
+      "what": {
+        "de": "Eine WG-App ohne Konten: Einladung per Code, alles funktioniert offline und wird Ende-zu-Ende-verschlüsselt abgeglichen.",
+        "en": "A flat-share app without accounts: invite by code, everything works offline and syncs end-to-end encrypted."
+      },
+      "features": [
+        {
+          "de": "Putzplan, Urlaub, Feed",
+          "en": "Cleaning rota, holidays, feed"
+        },
+        {
+          "de": "Abgleich auch, wenn Mitbewohner erst Tage später online sind",
+          "en": "Syncs even when flatmates come online days later"
+        },
+        {
+          "de": "Im Browser als App installierbar",
+          "en": "Installable as an app from the browser"
+        }
+      ],
+      "stack": [
+        "JavaScript",
+        "Yjs (CRDT)",
+        "Python",
+        "FastAPI",
+        "WebSocket",
+        "AES-GCM"
+      ],
+      "private": true
+    },
+    {
+      "id": "wohnradar",
+      "title": "Wohnradar",
+      "status": "arbeit",
+      "tags": [
+        "produkt",
+        "software"
+      ],
+      "problem_short": {
+        "de": "Gute Wohnungen in Berlin sind weg, bevor man sie sieht",
+        "en": "Good flats in Berlin are gone before you see them"
+      },
+      "problem": {
+        "de": "Bei der Wohnungssuche in Berlin zählt jede Minute – und jede Anzeige von Hand zu prüfen kostet Stunden.",
+        "en": "When flat hunting in Berlin every minute counts – and checking each ad by hand takes hours."
+      },
+      "what": {
+        "de": "Ein Dienst, der neue Angebote abruft, nach eigenen Kriterien und Fahrzeiten bewertet und sofort per Push meldet.",
+        "en": "A service that fetches new listings, rates them by your own criteria and commute times and notifies you instantly."
+      },
+      "features": [
+        {
+          "de": "Harte und weiche Kriterien mit begründetem Ergebnis",
+          "en": "Hard and soft criteria with a reasoned verdict"
+        },
+        {
+          "de": "Fahrzeiten mit ÖPNV und Auto zu eigenen Orten",
+          "en": "Commute times by public transport and car to your own places"
+        },
+        {
+          "de": "Push-Nachricht ohne Doppelmeldungen",
+          "en": "Push notifications without duplicates"
+        }
+      ],
+      "stack": [
+        "Python",
+        "FastAPI",
+        "SQLite",
+        "Web Push",
+        "Valhalla",
+        "Docker"
+      ],
+      "private": true
+    },
+    {
+      "id": "xai",
+      "title": "XAI Evaluation Pipeline",
+      "status": "studium",
+      "tags": [
+        "ki",
+        "software"
+      ],
+      "problem_short": {
+        "de": "KI-Erklärungen lassen sich kaum fair vergleichen",
+        "en": "AI explanations are hard to compare fairly"
+      },
+      "problem": {
+        "de": "Methoden, die erklären, warum eine KI etwas erkennt, lassen sich schwer fair und reproduzierbar vergleichen.",
+        "en": "Methods that explain why an AI recognises something are hard to compare fairly and reproducibly."
+      },
+      "what": {
+        "de": "Meine Bachelorarbeit: eine Pipeline, die Erklärverfahren für Bildmodelle systematisch auswertet – vollständig konfigurierbar und nachvollziehbar.",
+        "en": "My bachelor thesis: a pipeline that systematically evaluates explanation methods for image models – fully configurable and traceable."
+      },
+      "features": [
+        {
+          "de": "Mehrere Erklärverfahren und Qualitätsmetriken",
+          "en": "Several explanation methods and quality metrics"
+        },
+        {
+          "de": "Experimente per Konfiguration, jedes Ergebnis nachvollziehbar",
+          "en": "Experiments by configuration, every result traceable"
+        },
+        {
+          "de": "Auswertung und Oberfläche zur Bedienung",
+          "en": "Analysis and a UI to run it"
+        }
+      ],
+      "stack": [
+        "Python",
+        "PyTorch",
+        "Captum",
+        "Hydra",
+        "MLflow",
+        "pandas"
+      ],
+      "links": [
+        {
+          "href": "https://github.com/shum-panda/xai-eval-pipeline",
+          "label": {
+            "de": "Code auf GitHub",
+            "en": "Code on GitHub"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lernbruecke",
+      "title": "Lernbrücke Berlin",
+      "status": "konzept",
+      "tags": [
+        "produkt",
+        "software"
+      ],
+      "problem_short": {
+        "de": "Nachhilfe ist für viele Familien zu teuer",
+        "en": "Tutoring is too expensive for many families"
+      },
+      "problem": {
+        "de": "Gute Nachhilfe ist für viele Familien zu teuer, und Jugendliche finden schwer seriöse Ferienjobs.",
+        "en": "Good tutoring is too expensive for many families, and teenagers struggle to find trustworthy holiday jobs."
+      },
+      "what": {
+        "de": "Konzept und Prototyp für einen gemeinnützigen Verein: bezahlbare Nachhilfe durch geschulte Peer-Tutoren und geprüfte Ferienjobs.",
+        "en": "Concept and prototype for a non-profit association: affordable tutoring by trained peer tutors and vetted holiday jobs."
+      },
+      "features": [
+        {
+          "de": "Bereiche für Eltern, Tutoren, Jugendliche und Arbeitgeber",
+          "en": "Areas for parents, tutors, teenagers and employers"
+        },
+        {
+          "de": "Prüfungen nach Jugendarbeitsschutz und Kinderschutz eingebaut",
+          "en": "Youth-labour and child-protection checks built in"
+        },
+        {
+          "de": "Ausgearbeitetes Konzept zu Recht, Finanzen und Roadmap",
+          "en": "Worked-out concept on legal, finances and roadmap"
+        }
+      ],
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Prisma",
+        "Vitest"
+      ],
+      "private": true
+    },
+    {
+      "id": "notenrechner",
+      "title": "Notenrechner HTW",
+      "status": "arbeit",
+      "tags": [
+        "software"
+      ],
+      "problem_short": null,
+      "problem": {
+        "de": "Die eigene Bachelor-Endnote auszurechnen ist mühsam und fehleranfällig.",
+        "en": "Working out your final bachelor grade is tedious and error-prone."
+      },
+      "what": {
+        "de": "Erst ein Excel-Werkzeug, jetzt eine Web-App, die das Notenblatt direkt im Browser einliest.",
+        "en": "First an Excel tool, now a web app that reads the transcript right in the browser."
+      },
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite",
+        "Excel"
+      ],
+      "links": [
+        {
+          "href": "https://github.com/shum-panda/bechlor_grade",
+          "label": {
+            "de": "Code auf GitHub",
+            "en": "Code on GitHub"
+          }
+        }
+      ]
+    },
+    {
+      "id": "server",
+      "title": "Eigener Server & Betrieb",
+      "status": "live",
+      "tags": [
+        "software"
+      ],
+      "problem_short": null,
+      "problem": {
+        "de": "Eigene Apps brauchen ein Zuhause, das sicher läuft, ohne dass man ständig danebensitzt.",
+        "en": "Your own apps need a home that runs securely without constant babysitting."
+      },
+      "what": {
+        "de": "Ein selbst betriebener Linux-Server für meine Dienste – mit HTTPS, Firewall, Sicherungen, Monitoring, Alarmen und Updates per Git.",
+        "en": "A self-run Linux server for my services – with HTTPS, firewall, backups, monitoring, alerts and updates via Git."
+      },
+      "stack": [
+        "Linux",
+        "systemd",
+        "Caddy",
+        "Uptime Kuma",
+        "ntfy",
+        "Git"
+      ],
+      "private": true
+    }
+  ],
+  "goals": {
+    "intro": {
+      "de": "Wo ich gerade stehe und wohin es geht.",
+      "en": "Where I am right now and where I'm heading."
+    },
+    "phases": [
+      {
+        "state": "done",
+        "title": {
+          "de": "Bauen lernen",
+          "en": "Learning to build"
+        },
+        "text": {
+          "de": "Studium, Bachelorarbeit und eine Reihe eigener Projekte – vom Werkzeug für mich selbst bis zur veröffentlichten App.",
+          "en": "Studies, bachelor thesis and a series of own projects – from tools for myself to a released app."
+        }
+      },
+      {
+        "state": "now",
+        "title": {
+          "de": "Ideen zu Produkten machen",
+          "en": "Turning ideas into products"
+        },
+        "text": {
+          "de": "Die wichtigsten Ideen zu verlässlichen ersten Versionen ausbauen.",
+          "en": "Developing the most important ideas into reliable first versions."
+        }
+      },
+      {
+        "state": "next",
+        "title": {
+          "de": "Mit echten Gruppen testen",
+          "en": "Testing with real groups"
+        },
+        "text": {
+          "de": "Die Apps in kleinen, echten Gruppen einsetzen, Rückmeldungen sammeln und die Tests selbst organisieren.",
+          "en": "Using the apps with small real groups, collecting feedback and running the tests myself."
+        }
+      },
+      {
+        "state": "later",
+        "title": {
+          "de": "Wachsen, wo es trägt",
+          "en": "Growing where it works"
+        },
+        "text": {
+          "de": "Was sich bewährt, weiterentwickeln – gemeinsam mit Menschen, die es mittragen.",
+          "en": "Developing what proves itself further – together with people who back it."
+        }
+      }
+    ],
+    "join": {
+      "title": {
+        "de": "Mitmachen und mittesten",
+        "en": "Join in and help test"
+      },
+      "text": {
+        "de": "Ich suche Menschen, die sich für die Projekte interessieren – besonders für die Nachhilfe-Idee der Lernbrücke.",
+        "en": "I'm looking for people interested in the projects – especially the tutoring idea of Lernbrücke."
+      },
+      "who": [
+        {
+          "de": "Schulen und Lehrkräfte, die als erste Testgruppe dabei sein wollen",
+          "en": "Schools and teachers who want to be a first test group"
+        },
+        {
+          "de": "Kontakte, die Türen zu Schulen oder Vereinen öffnen können",
+          "en": "Contacts who can open doors to schools or associations"
+        },
+        {
+          "de": "Leute, die mitdenken, mitbauen oder ehrlich Feedback geben",
+          "en": "People who want to think along, build along or give honest feedback"
+        }
+      ],
+      "cta": {
+        "de": "Schreib mir",
+        "en": "Write to me"
+      },
+      "subject": {
+        "de": "Mitmachen / Testen",
+        "en": "Joining / testing"
+      }
+    },
+    "values_title": {
+      "de": "Worauf ich achte",
+      "en": "What I care about"
+    },
+    "values": [
+      {
+        "title": {
+          "de": "Ehrlich.",
+          "en": "Honest."
+        },
+        "text": {
+          "de": "Ich sage, was ich kann und was nicht – auch auf dieser Seite.",
+          "en": "I say what I can and can't do – on this page too."
+        }
+      },
+      {
+        "title": {
+          "de": "Nützlich.",
+          "en": "Useful."
+        },
+        "text": {
+          "de": "Ein Projekt zählt, wenn es jemandem ein Problem abnimmt.",
+          "en": "A project counts when it takes a problem off someone's hands."
+        }
+      },
+      {
+        "title": {
+          "de": "Verlässlich.",
+          "en": "Reliable."
+        },
+        "text": {
+          "de": "Lieber weniger Funktionen, die sicher funktionieren.",
+          "en": "Fewer features that work for sure beat many that might."
+        }
+      }
+    ]
+  },
+  "phase_states": {
+    "done": {
+      "de": "Erledigt",
+      "en": "Done"
+    },
+    "now": {
+      "de": "Jetzt",
+      "en": "Now"
+    },
+    "next": {
+      "de": "Als Nächstes",
+      "en": "Next"
+    },
+    "later": {
+      "de": "Später",
+      "en": "Later"
+    }
+  }
+}
