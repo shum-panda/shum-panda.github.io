@@ -1,4 +1,4 @@
-/* Alter Röhrencomputer: beiges Gehäuse, Bernstein-Bildschirm, Orange als Signalfarbe. Seelöwen im Hintergrund (bg.js). */
+/* Alter Röhrencomputer: beiges Gehäuse, Bernstein-Bildschirm, Orange als Signalfarbe. */
 :root {
   --bg: #e9e1cc;          /* Gehäuse-Beige */
   --surface: #f5f0e3;
@@ -49,8 +49,7 @@ body {
   font: 400 1.0625rem/1.65 var(--body);
   overflow-x: hidden;
 }
-#sea { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; image-rendering: pixelated; }
-.top, .banner, main, .foot { position: relative; z-index: 1; }
+.banner, main, .foot { position: relative; }
 
 h1, h2, h3, h4 { font-family: var(--pixel); font-weight: 600; line-height: 1.18; letter-spacing: -0.01em; margin: 0 0 .5em; text-wrap: balance; }
 h1 { font-size: clamp(2rem, 1.2rem + 3.2vw, 3.4rem); font-weight: 700; max-width: 20ch; letter-spacing: -0.03em; }
@@ -277,7 +276,7 @@ main:focus { outline: none; }
 /* Fuß */
 .foot {
   display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem;
-  max-width: 1120px; margin: 0 auto; padding: 1.5rem 16px calc(2.5rem + min(170px, 20vh)); border-top: 3px solid var(--line); color: var(--muted); font-size: .9rem;
+  max-width: 1120px; margin: 0 auto; padding: 1.5rem 16px 2.5rem; border-top: 3px solid var(--line); color: var(--muted); font-size: .9rem;
 }
 .foot-links { display: flex; gap: 1rem; flex-wrap: wrap; }
 
